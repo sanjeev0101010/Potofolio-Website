@@ -10,7 +10,7 @@ const Project = () => {
       desc: "Modern responsive portfolio with React and Tailwind CSS featuring animations and optimized performance.",
       image: PortFolioImage,
       languages: ["React", "Tailwind CSS", "JavaScript"],
-      gitlink: "#",
+      gitlink: "https://github.com/sanjeev0101010/Potofolio-Website",
       livelink: "#",
     },
     {
