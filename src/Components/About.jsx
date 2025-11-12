@@ -128,7 +128,7 @@ const About = () => {
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-blue-100">Code Commits</span>
-                  <span className="font-bold text-lg">200+</span>
+                  <span className="font-bold text-lg">20+</span>
                 </div>
               </div>
             </div>
