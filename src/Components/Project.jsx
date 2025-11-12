@@ -2,6 +2,7 @@ import React from 'react';
 import ProjectCard from './ProjectCard';
 import PortFolioImage from '../assets/image/PortFolioWebisteSS.jpeg'
 import CarrerFinderImage from "../assets/image/CarrierFinderImage.jpeg"
+import TodoAppImage from "../assets/image/Todo app.jpeg"
 
 const Project = () => {
   const projects = [
@@ -18,6 +19,14 @@ const Project = () => {
       desc: "Full-stack job portal with authentication and responsive design using MERN stack.",
       image: CarrerFinderImage,
       languages: ["React", "Node.js", "MongoDB", "Express"],
+      gitlink: "#",
+      livelink: "#",
+    },
+     {
+      name: "Todo App",
+      desc: "A simple and intuitive todo application to manage daily tasks efficiently.",
+      image: TodoAppImage,
+      languages: ["React", "CSS", "JavaScript"],
       gitlink: "#",
       livelink: "#",
     },
